@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
-![LinearRegressionMPG](https://github.com/James-Harkin/MechaCar_Statistical_Analysis/blob/main/static/images/LinearRegressionMPG)
+![LinearRegressionMPG](https://github.com/James-Harkin/MechaCar_Statistical_Analysis/blob/main/static/images/LinearRegressionMPG.png)
 * As shown in the data, vehicle_length and ground_clearance provided a non-random amount of variance due to their very low p values.
 * The slope of the linear model would not be considered zero because the p value for the model is 5.35e-11 which is very small.
 * This model successfully predicts mpg of MechaCar prototypes with an r squared of 0.7149 meaning 71% accuracy.
